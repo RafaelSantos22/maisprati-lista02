@@ -12,3 +12,5 @@ const fatorial = (n) => {
 }
 
 console.log(fatorial(5)); 
+
+module.exports = fatorial;
